@@ -1,54 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jie&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+Discord+bots+solo;Discord.js+%2B+Supabase+%2B+Railway;Coded+entirely+from+Termux)](https://git.io/typing-svg)
-
-<br/>
-
-![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f17,100:001a0e&height=180&section=header&text=Jie&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=40&desc=Discord%20Bot%20Developer&descAlignY=60&descSize=16&descColor=39FF14" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+```bash
+jie@termux ~ % whoami
+Discord bot developer — solo dev, built entirely from a phone.
 
-### 🛰️ Active Projects
+jie@termux ~ % stack
+Discord.js · Supabase · Railway
 
-**⚔️ Astral Knight**  
-Moderation & management bot. Grew from a basic mod bot into a full staff duty management system — setup wizard, live status panels, staff delegation, an auto-syncing admin list, a music system, and a custom anti-phishing engine with its own review dashboard.
-
-**🔊 TempHub**  
-Temporary voice channel bot. Auto-created rooms, personalized control panels, voice activity logs, and native channel status integration.
-
-**🌌 Jieee's Corner**  
-A Discord server I built from the ground up — structure, roles, channels, all of it.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
-
-### 📡 Stats
+jie@termux ~ % workflow
+git add . && git commit -m "fix" && git push
+```
 
 <div align="center">
 
-<img width="480" src="https://github-readme-stats.vercel.app/api?username=PiJieee285&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiJieee285&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+![Discord.js](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=39FF14)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=39FF14)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=39FF14)
 
 </div>
 
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+## `> active_projects`
 
-### 🧭 How I build
+**⚔ Astral Knight**
+Moderation & management bot. Grew from a basic mod bot into a full staff duty management system — setup wizard, live status panels, staff delegation, an auto-syncing admin list, a music system, and a custom anti-phishing engine with its own review dashboard.
+
+**🔊 TempHub**
+Temporary voice channel bot. Auto-created rooms, personalized control panels, voice activity logs, and native channel status integration.
+
+**🌌 Jieee's Corner**
+A Discord community designed and built from scratch — every role, channel, and permission structured by hand.
+
+<br/>
+
+## `> how_i_build`
 
 Small, deliberate changes over big rewrites. If it's not broken, it doesn't get touched — new features get layered in without disturbing what already works.
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiJieee285&theme=react&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=6b7280" width="480"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0e,50:0d1f17,100:000000&height=100&section=footer" width="100%"/>
 </div>
