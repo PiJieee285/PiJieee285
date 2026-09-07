@@ -26,7 +26,7 @@ Moderation & management bot. Grew from a basic mod bot into a full staff duty ma
 Temporary voice channel bot. Auto-created rooms, personalized control panels, voice activity logs, and native channel status integration.
 
 **🌌 Jieee's Corner**
-My own Discord server — where every bot above gets tested and run live.
+A Discord community designed and built from scratch every role, channel, and permission structured by hand
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
 
