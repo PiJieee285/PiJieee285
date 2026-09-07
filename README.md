@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=JIE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jie&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Discord%20Bot%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -19,14 +19,14 @@
 
 ### 🛰️ Active Projects
 
-**⚔️ Astral Knight**
+**⚔️ Astral Knight**  
 Moderation & management bot. Grew from a basic mod bot into a full staff duty management system — setup wizard, live status panels, staff delegation, an auto-syncing admin list, a music system, and a custom anti-phishing engine with its own review dashboard.
 
-**🔊 TempHub**
+**🔊 TempHub**  
 Temporary voice channel bot. Auto-created rooms, personalized control panels, voice activity logs, and native channel status integration.
 
-**🌌 Jieee's Corner**
-A Discord community designed and built from scratch every role, channel, and permission structured by hand
+**🌌 Jieee's Corner**  
+A Discord server I built from the ground up — structure, roles, channels, all of it.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
 
@@ -34,8 +34,7 @@ A Discord community designed and built from scratch every role, channel, and per
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PiJieee285&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiJieee285&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9"/>
+<img width="480" src="https://github-readme-stats.vercel.app/api?username=PiJieee285&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
 
 <br/>
 
